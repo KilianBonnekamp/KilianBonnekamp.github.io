@@ -1,0 +1,324 @@
+ @import 'https://fonts.googleapis.com/css?family=Abril+Fatface';
+
+body {
+	background-image: url("http://www.spyderonlines.com/images/wallpapers/galaxy-wallpaper/galaxy-wallpaper-5.jpg");
+}
+                                                                              
+.hud {
+	text-align: center;
+}
+                                                                              
+.info {
+  display: inline-block;
+  width: 30%;
+  height: 150px;
+  border-radius: 2em;
+  display: inline-block;
+  font-family: 'Abril Fatface'
+}
+                                                                              
+.lives-box {
+  width: 30%;
+  height: 110px;
+}
+
+                                                                              
+.Timer {
+  right: 0px;
+  width: 30%;
+  height: 110px;
+  color: #55ff00;
+}                                   
+
+.player {
+  position: relative;
+}
+
+#rocket {
+  position: absolute;
+  width: 9%;
+  display: block;
+  bottom: 0;
+  left: 50%;
+  top: 70%;
+}
+
+#a1 {
+  top: -300px;
+  left: 250px;
+  width: 5%;
+  position: relative;
+}
+
+#a2 {
+  top: -300px;
+  left: 50px;
+  width: 8%;
+  position: relative;
+}
+
+#a3 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a4 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a5 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a6 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a7 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a8 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a9 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a10 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a11 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a12 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a13 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a14 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a15 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a16 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a17 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a18 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a19 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a20 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a21 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a22 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a23 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a24 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a25 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a26 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a27 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a28 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a29 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a30 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a31 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a32 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a33 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a34 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a35 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a36 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a37 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a38 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a39 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
+
+#a40 {
+  top: -300px;
+  left: 450px;
+  width: 4%;
+  position: relative;
+}
